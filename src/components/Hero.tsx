@@ -127,20 +127,6 @@ const Hero = () => {
               >
                 Get In Touch
               </Button>
-              
-              {/* Resume Download Button */}
-              <Button
-                size="lg"
-                className="bg-gradient-to-r from-green-500 to-emerald-600 text-white shadow-lg hover:opacity-90"
-                asChild
-              >
-                <a
-                  href="/src/assets/purna-resume.pdf"
-                  download="Purna-Ajay-Resume.pdf"
-                >
-                  Resume
-                </a>
-              </Button>
             </div>
           </div>
         </div>
