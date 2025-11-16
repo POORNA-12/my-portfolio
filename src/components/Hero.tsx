@@ -57,7 +57,7 @@ const Hero = () => {
             </h1>
 
             <p className="text-xl lg:text-2xl text-muted-foreground mb-4">
-              Full Stack Developer & AI Enthusiast
+              Backend Developer & AI Enthusiast
             </p>
 
             <p className="text-base lg:text-lg text-muted-foreground mb-8 max-w-xl">
